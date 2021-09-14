@@ -1,3 +1,4 @@
 # practice
-hi Guy this is Vinh - pushing my change up.
-Doing random stuff
+hi Guy this is Vinh MSG - pushing my change up.
+resolve merge conflict
+add random stuff
